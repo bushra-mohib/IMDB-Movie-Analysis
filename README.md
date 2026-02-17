@@ -1,6 +1,9 @@
 # IMDb Movie Analysis Dashboard
 
 This project analyzes an IMDb movie dataset using SQL and Tableau to explore trends in movies across years, countries, languages, ratings, and genres.
+## Dashboard Preview
+![IMDb Dashboard](Movie Dataset Analysis Dashboard.png)
+
 
 ## Tools Used
 - SQL
