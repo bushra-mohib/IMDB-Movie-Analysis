@@ -19,12 +19,13 @@ The goal is to understand trends in movie releases, genres, languages, ratings, 
 - Top movie genres
 
 ## SQL Queries
-The SQL analysis used in this project is available in:
-- `imdb_sql_analysis.sql`
+View the SQL file here:
+[imdb_sql_analysis.sql](imdb_sql_analysis.sql)
 
-## How to Open
-Open the Tableau file:
-- `Movie Analysis Dashboard.twbx`
+## Tableau Dashboard File
+Download the Tableau dashboard here:
+[Movie Analysis Dashboard.twbx](Movie Analysis Dashboard.twbx)
+
 
 ## Author
 Bushra Mohib
