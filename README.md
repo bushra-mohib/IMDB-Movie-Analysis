@@ -23,9 +23,7 @@ View the SQL file here:
 [imdb_sql_analysis.sql](imdb_sql_analysis.sql)
 
 ## Tableau Dashboard File
-Download the Tableau dashboard here:
-[Movie Analysis Dashboard.twbx](Movie Analysis Dashboard.twbx)
-
+Download the Tableau dashboard here: [Movie Analysis Dashboard](movie-analysis-dashboard.twbx)
 
 ## Author
 Bushra Mohib
